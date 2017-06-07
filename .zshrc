@@ -101,4 +101,6 @@ alias lsd="ls -d */"
 # Stuff I never really use but cannot delete either because of http://xkcd.com/530/
 alias stfu="osascript -e 'set volume output volume 0'"
 alias pumpitup="osascript -e 'set volume output volume 100'"
+alias sayir="say -i -r 270"
 alias ir="cd ~/myFolder/IR_vip"
+alias welcomemessage="sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText \"If found unattended, please call 713-732-8169.\""
