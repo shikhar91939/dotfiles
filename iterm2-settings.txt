@@ -6,4 +6,32 @@ modifcation in the color preset:
   - Yellow Normal : ECE536
   - Yellow Bright : DAB905
 
-  
+2a.  <Option 1> : 16 pt Melno Regular for Powerline
+Font (under tab 'text') :
+
+16 pt Melno Regular for Powerline : 
+ - install Melno font with https://powerline.readthedocs.io/en/master/installation/osx.html#fonts-installation
+ - change the font style in iterm-2 preferences>profiles>text>Change font> choose "Anonymice Nerd Font Complete Mono"
+ - font size is 16pt (mentioned in "16 pt Melno Regular...")
+ - 
+
+
+2b. <Option 2> : 18 pt Anonymice Nerd Font Complete Mono
+Font (under tab 'text') :
+
+Anonymice Nerd Font Complete Mono: 
+ - set -g theme_nerd_fonts yes  #(type that in the terminal) (this is for bobTheFish omf theme for fish shell)
+ - downlad the .ttf file here https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/AnonymousPro/complete/Anonymice%20Nerd%20Font%20Complete%20Mono.ttf
+ - font size is 18pt (mentioned in "18 pt Anonymice Nerd...")
+ - install it via a simple double click
+ - change the font style in iterm-2 preferences>profiles>text>Change font> choose "Anonymice Nerd Font Complete Mono"
+
+
+2c. <Option 3><best option> : 15 AurulentSansMono-Regular Nerd Font Complete
+Font (under tab 'text') :
+
+AurulentSansMono-Regular Nerd Font Complete: 
+ - set -g theme_nerd_fonts yes  #(type that in the terminal) (this is for bobTheFish omf theme for fish shell)
+ - downlad the .otf file here https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/AurulentSansMono/complete/AurulentSansMono-Regular%20Nerd%20Font%20Complete.otf
+ - install it via a simple double click
+ - change the font style in iterm-2 preferences>profiles>text>Change font> choose "AurulentSansMono-Regular Nerd Font Complete"
