@@ -1,0 +1,9 @@
+1.
+Color scheme:
+
+color preset: Flat
+modifcation in the color preset: 
+  - Yellow Normal : ECE536
+  - Yellow Bright : DAB905
+
+  
